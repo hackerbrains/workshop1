@@ -4,6 +4,11 @@ Neo4j and recommendation engines
 Getting started with Neo4 and building a simple recommendation engine showing
 friends of friends for a user.
 
+0. Clone thie respository
+
+        git clone https://github.com/graphaware/neo4j-reco
+
+
 1. Download Neo4j:
 
         curl -O http://dist.neo4j.org/neo4j-community-2.1.3-unix.tar.gz
